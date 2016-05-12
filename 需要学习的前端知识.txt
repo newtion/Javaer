@@ -1,4 +1,4 @@
---------------------------
+﻿--------------------------
 基础知识
 html/html5 
 css/css3/flexbox
@@ -25,13 +25,14 @@ jqueryMobile/zeptojs
 avalon
 angularjs
 --------------------------
-后台开发，自动化构建工具
-node.js/express/mongodb
-yeoman/brow/grunt
---------------------------
 前端模块化开发
 commonjs
 requirejs
 seajs
 --------------------------
+后台开发，自动化构建工具
+node.js/express/mongodb
+yeoman/brow/grunt
+--------------------------
+
 
