@@ -4,7 +4,7 @@ html/html5
 css/css3/flexbox
 sass/scss/compass
 (less/sass/stylus)
-js/jquery
+js/jquery/kissy
 --------------------------
 前端ui框架
 jqueryui
