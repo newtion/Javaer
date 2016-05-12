@@ -34,5 +34,7 @@ seajs
 node.js/express/mongodb
 yeoman/brow/grunt
 --------------------------
-
+开发工具
+svn/git
+webStorm
 
