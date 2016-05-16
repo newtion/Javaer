@@ -4,8 +4,8 @@ body {
 }
 
 .header {
-    position:fixed;
-    top:0;
+    position: fixed;
+    top: 0;
     height: 80px;
     width: 100%;
     background: red;
@@ -14,7 +14,7 @@ body {
 }
 
 .main {
-    background: linear-gradient(to top,red,blue);
+    background: linear-gradient(to top, red, blue);
     line-height: 800px;
     margin: 0 auto;
     height: 700px;
@@ -58,24 +58,34 @@ body {
     width: 200px;
     border-radius: 100px;
     background: #cdff98;
-    box-shadow: 6px 6px 6px #aaa,-10px -10px 10px 2px #afa;
+    box-shadow: 6px 6px 6px #aaa, -10px -10px 10px 2px #afa;
 }
 
 .demo1 {
-    box-shadow:0px -6px 6px 6px red;
+    box-shadow: 0px -6px 6px 6px red;
     margin: 0 auto;
     height: 200px;
     width: 500px;
     border-radius: 0 0 270px 250px;
-    background: linear-gradient(to top left,red,yellow);
+    background: linear-gradient(to top left, red, yellow);
 }
-
 
 span {
     color: white;
     text-decoration-style: solid;
 }
 
-textarea{
+textarea {
     resize: both;
 }
+
+.footer2 {
+    width: 100px;
+    height: 100px;
+    background: red;
+    margin: 5px;
+    transform-origin: top left;
+    transform: rotate(45deg);
+}
+
+
