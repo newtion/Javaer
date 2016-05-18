@@ -1,7 +1,21 @@
 nodejs/npm
-express/koa
-mongodb/mysql/redis
+express/koa           ----   nodejs mvc框架
+mongodb/mysql/redis   ----   数据库相关
 
-linux/vim
+linux/vim            
 
+
+一些npm库
 devtool
+nrm
+nvm
+mongoose
+
+
+
+robomongo   ----可视化工具
+
+
+nodejs引擎模版
+
+jade/ejs/hogan
