@@ -17,5 +17,10 @@ robomongo   ----可视化工具
 
 
 nodejs引擎模版
-
 jade/ejs/hogan
+
+
+
+nodejs应用的部署
+forever
+pm2
