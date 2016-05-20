@@ -2,26 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f364a3a5-20ec-4ffd-9b93-f3cb491b5c51" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/nodejs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demos/nodejs/http/http.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node基础/网络操作.xmind" afterPath="$PROJECT_DIR$/node基础/网络操作.xmind" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/MyLearningLogs.iml" afterPath="$PROJECT_DIR$/.idea/MyLearningLogs.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS体系图(待更新).png" afterPath="$PROJECT_DIR$/node基础/NodeJS体系图(待更新).png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NodeJS知识框架图.xmind" afterPath="$PROJECT_DIR$/node基础/NodeJS知识框架图.xmind" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodejs相关的知识体系.txt" afterPath="$PROJECT_DIR$/node基础/nodejs相关的知识体系.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/基础/css/css.xmind" afterPath="$PROJECT_DIR$/前端基础/css/css.xmind" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/基础/css/css3.xmind" afterPath="$PROJECT_DIR$/前端基础/css/css3.xmind" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/基础/css/css知识框架图.png" afterPath="$PROJECT_DIR$/前端基础/css/css知识框架图.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/基础/css/demos/demo-01.html" afterPath="$PROJECT_DIR$/前端基础/css/demos/demo-01.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/基础/css/demos/demo-02.html" afterPath="$PROJECT_DIR$/前端基础/css/demos/demo-02.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/基础/css/demos/demo-03.html" afterPath="$PROJECT_DIR$/前端基础/css/demos/demo-03.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/基础/css/demos/demo-04.html" afterPath="$PROJECT_DIR$/前端基础/css/demos/demo-04.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/基础/css/demos/demo.css" afterPath="$PROJECT_DIR$/前端基础/css/demos/demo.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/基础/css/reset.css" afterPath="$PROJECT_DIR$/前端基础/css/reset.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/基础/html/html.xmind" afterPath="$PROJECT_DIR$/前端基础/html/html.xmind" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/基础/html/html5.xmind" afterPath="$PROJECT_DIR$/前端基础/html/html5.xmind" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/基础/javascript/javascript.xmind" afterPath="$PROJECT_DIR$/前端基础/javascript/javascript.xmind" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/基础/js库/jquery/jquery.xmind" afterPath="$PROJECT_DIR$/前端基础/js库/jquery/jquery.xmind" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/文件操作.xmind" afterPath="$PROJECT_DIR$/node基础/文件操作.xmind" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网络操作.xmind" afterPath="$PROJECT_DIR$/node基础/网络操作.xmind" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/进程管理.xmind" afterPath="$PROJECT_DIR$/node基础/进程管理.xmind" />
     </list>
     <ignored path="MyLearningLogs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,13 +27,25 @@
     <favorites_list name="MyLearningLogs" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="http.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demos/nodejs/http/http.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -70,6 +68,7 @@
         <option value="$PROJECT_DIR$/基础/css/demos/demo-04.html" />
         <option value="$PROJECT_DIR$/基础/css/demos/demo.css" />
         <option value="$PROJECT_DIR$/nodejs相关的知识体系.txt" />
+        <option value="$PROJECT_DIR$/demos/nodejs/http/http.js" />
       </list>
     </option>
   </component>
@@ -138,7 +137,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="前端基础" />
+              <option name="myItemId" value="node基础" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -171,9 +170,13 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="922" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path" value="F:\nodejs\node" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\MyLearningLogs\前端基础" />
       <recent name="G:\MyLearningLogs\node基础" />
       <recent name="G:\MyLearningLogs" />
       <recent name="G:\MyLearningLogs\知识体系" />
@@ -183,7 +186,7 @@
       <recent name="G:\MyLearningLogs\基础知识\css\demos" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.http.js">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -237,6 +240,12 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <configuration default="false" name="http.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="http.js" working-dir="$PROJECT_DIR$/demos/nodejs/http">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.http.js" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -261,7 +270,7 @@
       <workItem from="1463470686280" duration="58000" />
       <workItem from="1463473088357" duration="714000" />
       <workItem from="1463475619044" duration="309000" />
-      <workItem from="1463630334574" duration="839000" />
+      <workItem from="1463630334574" duration="2101000" />
     </task>
     <task id="LOCAL-00001" summary="modif css.xmind">
       <created>1463048693651</created>
@@ -274,28 +283,37 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15932000" />
+    <option name="totallyTimeSpent" value="17194000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20758928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.107717045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7447833" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21829855" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21829855" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -400,5 +418,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node基础/nodejs相关的知识体系.txt" />
+    <entry file="file://$PROJECT_DIR$/demos/nodejs/http/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
