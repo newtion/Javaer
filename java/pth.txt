@@ -1,0 +1,180 @@
+{
+    "data": {
+        "recordList": [
+            {
+                "cardNo": "FF29075410",
+                "plate": "ª¶AUE607",
+                "comeDate": "2016-5-29 6:56:05",
+                "comePic": "",
+                "parkSpacePic": "2016-5-29 7:54:33",
+                "goDate": "2016-5-29 7:54:33",
+                "goPic": "2016-5-29 7:54:33",
+                "empName": "",
+                "parkName": "disine",
+                "cardType": "0",
+                "accType": "1"
+            },
+            {
+                "cardNo": "FF29075504",
+                "plate": "ª¶C6U657",
+                "comeDate": "2016-5-29 6:57:01",
+                "comePic": "",
+                "parkSpacePic": "2016-5-29 7:55:04",
+                "goDate": "2016-5-29 7:55:04",
+                "goPic": "2016-5-29 7:55:04",
+                "empName": "",
+                "parkName": "disine",
+                "cardType": "0",
+                "accType": "1"
+            },
+            {
+                "cardNo": "FF29075534",
+                "plate": "ª¶CKU012",
+                "comeDate": "2016-5-29 6:57:31",
+                "comePic": "",
+                "parkSpacePic": "2016-5-29 7:55:34",
+                "goDate": "2016-5-29 7:55:34",
+                "goPic": "2016-5-29 7:55:34",
+                "empName": "",
+                "parkName": "disine",
+                "cardType": "0",
+                "accType": "1"
+            },
+            {
+                "cardNo": "FF29075813",
+                "plate": "ª¶DK7046",
+                "comeDate": "2016-5-29 7:00:09",
+                "comePic": "",
+                "parkSpacePic": "2016-5-29 7:58:13",
+                "goDate": "2016-5-29 7:58:13",
+                "goPic": "2016-5-29 7:58:13",
+                "empName": "",
+                "parkName": "disine",
+                "cardType": "0",
+                "accType": "1"
+            },
+            {
+                "cardNo": "FF29080321",
+                "plate": "¬≥B30L15",
+                "comeDate": "2016-5-29 7:05:10",
+                "comePic": "",
+                "parkSpacePic": "2016-5-29 8:03:22",
+                "goDate": "2016-5-29 8:03:22",
+                "goPic": "2016-5-29 8:03:22",
+                "empName": "",
+                "parkName": "disine",
+                "cardType": "0",
+                "accType": "1"
+            },
+            {
+                "cardNo": "FF29080929",
+                "plate": "ª¶C2QA07",
+                "comeDate": "2016-5-29 7:11:27",
+                "comePic": "",
+                "parkSpacePic": "2016-5-29 8:09:29",
+                "goDate": "2016-5-29 8:09:29",
+                "goPic": "2016-5-29 8:09:29",
+                "empName": "",
+                "parkName": "disine",
+                "cardType": "0",
+                "accType": "1"
+            },
+            {
+                "cardNo": "FF29081011",
+                "plate": "ª¶C716G1",
+                "comeDate": "2016-5-29 7:12:07",
+                "comePic": "",
+                "parkSpacePic": "2016-5-29 8:10:11",
+                "goDate": "2016-5-29 8:10:11",
+                "goPic": "2016-5-29 8:10:11",
+                "empName": "",
+                "parkName": "disine",
+                "cardType": "0",
+                "accType": "1"
+            },
+            {
+                "cardNo": "FF29081756",
+                "plate": "πÛA8069T",
+                "comeDate": "2016-5-29 7:19:55",
+                "comePic": "",
+                "parkSpacePic": "2016-5-29 8:17:56",
+                "goDate": "2016-5-29 8:17:56",
+                "goPic": "2016-5-29 8:17:56",
+                "empName": "",
+                "parkName": "disine",
+                "cardType": "0",
+                "accType": "1"
+            },
+            {
+                "cardNo": "FF29083420",
+                "plate": "ª¶B95N07",
+                "comeDate": "2016-5-29 7:36:18",
+                "comePic": "",
+                "parkSpacePic": "2016-5-29 8:34:20",
+                "goDate": "2016-5-29 8:34:20",
+                "goPic": "2016-5-29 8:34:20",
+                "empName": "",
+                "parkName": "disine",
+                "cardType": "0",
+                "accType": "1"
+            },
+            {
+                "cardNo": "FF29083435",
+                "plate": "ª¶C0PQ20",
+                "comeDate": "2016-5-29 7:36:34",
+                "comePic": "",
+                "parkSpacePic": "2016-5-29 8:34:35",
+                "goDate": "2016-5-29 8:34:35",
+                "goPic": "2016-5-29 8:34:35",
+                "empName": "",
+                "parkName": "disine",
+                "cardType": "0",
+                "accType": "1"
+            },
+            {
+                "cardNo": "FF29084528",
+                "plate": "À’FT115E",
+                "comeDate": "2016-5-29 7:47:25",
+                "comePic": "",
+                "parkSpacePic": "2016-5-29 8:45:28",
+                "goDate": "2016-5-29 8:45:28",
+                "goPic": "2016-5-29 8:45:28",
+                "empName": "",
+                "parkName": "disine",
+                "cardType": "0",
+                "accType": "1"
+            },
+            {
+                "cardNo": "FF29100047",
+                "plate": "ª¶FY9045",
+                "comeDate": "2016-5-29 9:02:45",
+                "comePic": "",
+                "parkSpacePic": "2016-5-29 10:00:47",
+                "goDate": "2016-5-29 10:00:47",
+                "goPic": "2016-5-29 10:00:47",
+                "empName": "",
+                "parkName": "disine",
+                "cardType": "0",
+                "accType": "1"
+            },
+            {
+                "cardNo": "FF29100330",
+                "plate": "À’E15DQ6",
+                "comeDate": "2016-5-29 9:05:28",
+                "comePic": "",
+                "parkSpacePic": "2016-5-29 10:03:30",
+                "goDate": "2016-5-29 10:03:30",
+                "goPic": "2016-5-29 10:03:30",
+                "empName": "",
+                "parkName": "disine",
+                "cardType": "0",
+                "accType": "1"
+            }
+        ]
+    },
+    "head": {
+        "code": "",
+        "serverDate": "2016-05-30 09:52:30",
+        "describe": ""
+    }
+}
